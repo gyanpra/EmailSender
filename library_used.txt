@@ -1,0 +1,27 @@
+$ pip install SpeechRecognition
+
+#to record audio.
+
+$pip install yagmail
+
+#to automate the mailing process by using smtp protocol.
+
+$ pip install pyaudio
+
+#to connect laptop with microphone.
+
+$ pip install PyAudio-0.2.11-cp39-cp39-win32.whl 
+
+#installed from (unofficial windows binaries), check codewithharry video for pyaudio installation
+
+#these wont work..... ;(
+$ pip install pipwin
+$ pipwin install PyAudio
+
+
+$ pip install keyring
+
+allow this from sender's email for using keyring
+https://www.google.com/settings/security/lesssecureapps
+
+
